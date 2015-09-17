@@ -1,12 +1,5 @@
-/* Author = helscream (Omer Ikram ul Haq)
-Last edit date = 2014-06-22
-Website: http://hobbylogs.me.pn/?p=17
-Location: Pakistan
-Ver: 0.1 beta --- Start
-Ver: 0.2 beta --- Debug feature included
+//By Dehyrf, based on code from helscream, distributed under GNU GPL v3 
 
---Edited and redistributed by Dehyrf under GNU GPL v3
-*/
 
 #include <Wire.h>
 #include "compass.h"
